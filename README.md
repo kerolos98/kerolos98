@@ -15,7 +15,7 @@ I specialize in **Intelligent Document Extraction (IDE)** and **Healthcare AI** 
 building OCR pipelines, clinical NLP systems, and MLOps infrastructure that turns
 unstructured data into actionable intelligence.
 
-- 🔭 Currently: ML R&D Engineer @ **Friendlycares** (Sept 2022 – Mar 2026)
+- 🔭 ML R&D Engineer @ **Friendlycares** (Sept 2022 – Mar 2026)
 - 🏥 Expert in: **ICD-10, SNOMED-CT, RxNorm, LOINC** medical coding
 - 🔐 Built: HIPAA-compliant document anonymization engines
 - 🎓 BSc Computer Science, HTI — GPA 3.2 | IBM Watson Certified
@@ -36,6 +36,19 @@ unstructured data into actionable intelligence.
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Tesseract](https://img.shields.io/badge/Tesseract_OCR-3E7FC1?style=flat-square)
 ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062B0?style=flat-square)
+![DocTR](https://img.shields.io/badge/DocTR-4A90D9?style=flat-square)
+![Amazon Textract](https://img.shields.io/badge/Amazon_Textract-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![LayoutLM](https://img.shields.io/badge/LayoutLM-7B61FF?style=flat-square&logo=huggingface&logoColor=white)
+
+---
+
+**🤖 Agentic AI & MCP**
+
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-CC785C?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square)
+![Tool Use](https://img.shields.io/badge/Tool_Use_%26_Function_Calling-6E40C9?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-2D9CDB?style=flat-square)
 
 **MLOps & Engineering**
 
